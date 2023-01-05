@@ -5,12 +5,11 @@
 
 body {
     background-color: #acacff;
-
 }
 
 main {
-    background-color: white;
-    width: 560px;
+    background-color:white;
+    width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
@@ -30,7 +29,7 @@ img.lado {
     float: right;
 }
 
-a {
+a{
     text-decoration: none;
     font-weight: bold;
     color: rgb(58, 0, 112);
@@ -38,5 +37,5 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: rgb(26, 26, 255);
+    color: rgb(26, green, blue);
 }
